@@ -24,7 +24,12 @@ a{
     width: 400px;
     text-align:center;
     padding: 40px 0px 0px 0px;
-    color:indigo ;
+    color:indigo ;background-image: url(https://tse4.mm.bing.net/th?id=OIP.cWkRlmYALpbBQNkSh0H6DgHaKm&pid=Api&P=0);
+    position: fix;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    
    
 }
 .child2{  background-color:rgb(73, 3, 139);
