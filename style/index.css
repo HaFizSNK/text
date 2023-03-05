@@ -1,0 +1,57 @@
+.navbar{
+    background-color: black;
+    height:40px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+.parent{
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.f-tMw31hT1ddA0A6dgP39QHaGk&pid=Api&P=0);
+    position: fix;
+    height: 1000px;
+    background-size: cover;
+    background-position: center;
+    
+   
+}
+.child1{
+    background-color:yellowgreen;
+    display: inline-block;
+    height: 250px;
+    width: 400px;
+    text-align:center;
+    padding: 40px 0px 0px 0px;
+   
+}
+.child2{  background-color:rgb(73, 3, 139);
+    display: inline-block;
+    height: 250px;
+    width: 400px;
+    text-align:center;
+    padding: 40px 0px 0px 0px;
+
+}
+.child3{  background-color:rgb(30, 2, 56);
+    display: inline-block;
+    height: 250px;
+    width: 400px;
+    text-align:center;
+    padding: 40px 0px 0px 0px;
+    margin-left: 125px;
+
+
+}
+.container{
+    display: block;
+    background-color: yellow;
+    height: 100px;
+    width:1100px;
+    margin: 20px 0px 0px 125px;
+}
+.footer{
+    background-color: transparent;
+    display: block;
+    margin-top: 20px;
+    height: 30px;
+    padding-top: 10px;
+}
