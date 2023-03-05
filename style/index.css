@@ -5,6 +5,9 @@
     text-align: center;
     padding: 20px 0px 0px 0px;
 }
+a{
+    color:#f7fc00;
+}
 .parent{
     background-image: url(https://tse2.mm.bing.net/th?id=OIP.f-tMw31hT1ddA0A6dgP39QHaGk&pid=Api&P=0);
     position: fix;
@@ -21,6 +24,7 @@
     width: 400px;
     text-align:center;
     padding: 40px 0px 0px 0px;
+    color:indigo ;
    
 }
 .child2{  background-color:rgb(73, 3, 139);
@@ -29,15 +33,16 @@
     width: 400px;
     text-align:center;
     padding: 40px 0px 0px 0px;
-
+color: #3d0505;
 }
-.child3{  background-color:rgb(30, 2, 56);
+.child3{  background-color:rgb(177, 104, 245);
     display: inline-block;
     height: 250px;
     width: 400px;
     text-align:center;
     padding: 40px 0px 0px 0px;
     margin-left: 125px;
+    color: aliceblue;
 
 
 }
@@ -47,6 +52,7 @@
     height: 100px;
     width:1100px;
     margin: 20px 0px 0px 125px;
+    text-align: center;
 }
 .footer{
     background-color: transparent;
